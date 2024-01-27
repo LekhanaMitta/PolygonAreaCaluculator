@@ -1,1 +1,1 @@
-# PolygonAreaCaluculator
+# PolygonAreaCalculator
